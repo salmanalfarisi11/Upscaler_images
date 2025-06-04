@@ -6,6 +6,10 @@ __pycache__/
 venv/
 .venv/
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8aaca53 (Update .gitignore)
 
 # Ignore API keys and configuration files
 .env
