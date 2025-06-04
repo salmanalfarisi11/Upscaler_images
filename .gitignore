@@ -1,0 +1,14 @@
+# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+venv/
+.venv/
+
+# Ignore model file if not required to upload
+model/Real-ESRGAN-x4plus.onnx
+
+# Ignore API keys and configuration files
+.env
+

@@ -1,0 +1,4 @@
+onnxruntime             # ONNX inference engine (CPU)
+numpy                   # Array manipulation
+Pillow                  # Image I/O
+gradio>=3.0             # Web UI
