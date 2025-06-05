@@ -1,16 +1,12 @@
-# Ignore Python bytecode files
+# Bytecode Python
 __pycache__/
 *.py[cod]
 
-# Ignore virtual environments
+# Virtual environment
 venv/
 .venv/
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 8aaca53 (Update .gitignore)
-
-# Ignore API keys and configuration files
-.env
+# File sementara / log
+*.tmp
+*.log
 
